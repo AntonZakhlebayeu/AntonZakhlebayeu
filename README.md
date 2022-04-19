@@ -4,7 +4,7 @@ Hi 👋 My name is Anton Zakhlebayeu
 C# Developer
 ----------------
  
-I started studying programming 3 years ago, but I really started working in September 2021. I'm studying C# development on asp.net and working in Unity.
+I started studying programming 3 years ago, but I started working in October 2021. Now I'm studying C# development on asp.net and working in Unity.
  
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [antonzakhlebayeu@gmail.com](mailto:antonzakhlebayeu@gmail.com)
