@@ -1,10 +1,10 @@
 Hi 👋 My name is Anton Zakhlebayeu
 ==============================
  
-C# Developer
+C# and Python Developer
 ----------------
  
-I started studying programming 3 years ago, I started working in October 2021. Now I'm studying C# development on asp.net and working in Unity.
+I started studying programming 3 years ago, I started working in October 2021. I studied c# for 8 months, worked as a Unity developer and backend developer, after which I switched to python development. And now I'm learning back-end development with django.
  
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [antonzakhlebayeu@gmail.com](mailto:antonzakhlebayeu@gmail.com)
