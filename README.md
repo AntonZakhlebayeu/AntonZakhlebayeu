@@ -1,7 +1,7 @@
 Hi 👋 My name is Anton Zakhlebayeu
 ==============================
  
-C# and JavaScript Developer
+Python and JavaScript Developer
 ----------------
  
 I started studying programming 3 years ago, I started working in September 2021. I studied c# for 8 months, worked as a Unity developer and backend developer, after which I switched to python development. There are several pet projects in python, with django, fastapi and flask. And now I'm learning fullstack development with node.js. 
