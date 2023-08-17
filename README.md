@@ -4,7 +4,11 @@ Hi 👋 My name is Anton Zakhlebayeu
 Python and JavaScript Developer
 ----------------
  
-I started studying programming 3 years ago, I started working in September 2021. I studied c# for 8 months, worked as a Unity developer and backend developer, after which I switched to python development. There are several pet projects in python, with django, fastapi and flask. And now I'm learning fullstack development with node.js. 
+Passionate software engineer with over 2 years of hands-on development experience, emphasizing the backend landscape. My strength lies in Python and the myriad of libraries that spring from its ecosystem. I'm equally adept with JavaScript, TypeScript, and front-end frameworks like React.js.
+
+I thrive in environments that challenge me to learn and adopt new technologies. My experience isn't just restricted to coding; I've taken on roles that required mentoring, conducting interviews, and aiding peers in interview preparation. I firmly believe in crafting scalable and efficient cloud-based applications.
+
+I'm not all about the code, though. At heart, I'm open-minded, conversational, and I enjoy the lighter moments — whether it's cracking a joke or having a hearty laugh. Let's connect and maybe share a tech joke or two!
  
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [antonzakhlebayeu@gmail.com](mailto:antonzakhlebayeu@gmail.com)
